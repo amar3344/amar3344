@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Fullstack Developer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about any queries on Frontend technologies(HTML,CSS,Javascript,ReactJs) and backend technologies(Node js,Sql)
+- 💬 Ask me about any queries on Frontend technologies(HTML,CSS,Javascript,ReactJs,TypeScript,React-Native,Redux,FireBase) and backend technologies(Node js,Sql)
 - 📫 How to reach me: amarkumarreddynew@gmail.com
 - 😄 Pronouns: Joke
 - ⚡ Fun fact: coffee === Live
